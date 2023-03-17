@@ -1,0 +1,11 @@
+{
+    "name": "Theme\Front",
+    "alias": "theme\front",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Theme\Front\\Providers\\Theme\FrontServiceProvider"
+    ],
+    "files": []
+}
