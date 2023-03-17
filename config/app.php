@@ -188,6 +188,8 @@ return [
 
         /* Laravel Debugbar */
          Barryvdh\Debugbar\ServiceProvider::class,
+        /* Laravel Log Viewer */
+         Rap2hpoutre\LaravelLogViewer\LaravelLogViewerServiceProvider::class,
 
         /*
          * Application Service Providers...
